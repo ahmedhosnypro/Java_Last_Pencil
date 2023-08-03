@@ -26,5 +26,8 @@
     <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.17.2" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="eda0715d-7cbb-4db2-b04a-1ad97a3d24f4" />
+  </component>
   <component name="TestModuleProperties" production-module="Last_Pencil.Last_Pencil__Java_-task.main" />
 </module>

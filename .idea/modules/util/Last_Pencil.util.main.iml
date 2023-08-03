@@ -20,4 +20,7 @@
     <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.17.2" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="8e138e18-12d5-4dc3-ad66-0dbbc2e327a3" />
+  </component>
 </module>
